@@ -72,4 +72,3 @@ Fork the repo, create a branch, and send a pull request—contributions are alwa
 This project implements a full-featured, interactive dashboard using modern frontend concepts. It highlights real-world use of React hooks, form handling, conditional rendering, and dynamic state management in a responsive UI.
 
 #ReactJS #Dashboard #WebDevelopment #AI #FrontendDev #IncidentReporting
-```
