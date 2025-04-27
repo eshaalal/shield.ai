@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+# 🧠 Shield.AI-AI Safety Incident Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+AI Safety Incident Dashboard is a modern and responsive web application crafted to monitor and handle AI-related incidents effortlessly. Developed with **ReactJS**, it enables users to filter, sort, explore detailed incident reports, and quickly submit new ones when needed! ⚠️📊
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Features
 
-### `npm start`
+- **View incidents** with title, severity, and date
+- **Filter** incidents by severity (All, Low, Medium, High)
+- **Sort** by date: Newest First or Oldest First
+- **Toggle** full incident descriptions on click
+- **Submit** new incidents with a form and validation
+- **Responsive layout** using Flexbox and Grid
+- **Clean UI** with subtle hover effects ✨
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📦 Installation
 
-### `npm test`
+To run this project locally, follow these steps:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/eshaalal/shield.ai.git
+   ```
 
-### `npm run build`
+2. **Navigate to the project folder**:
+   ```bash
+   cd shield.ai
+   ```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3. **Install the dependencies**:
+   ```bash
+   npm install
+   ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+4. **Run the project locally**:
+   ```bash
+   npm start
+   ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Now open your browser and go to `http://localhost:5173` to explore the dashboard! 🧭
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🌍 Live Demo
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Check out the live version here: [AI Safety Incident Dashboard Live](https://shield-ai-ebon.vercel.app) 🌐
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🛠️ Tech Stack
 
-## Learn More
+- **ReactJS** for component-based UI
+- **JavaScript (ES6+)** for interactivity
+- **HTML5 + CSS3** for structure and styling
+- **React Hooks** for state and side-effect management
+- **Flexbox / Grid** for responsive layout
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🤝 Contributions
 
-### Code Splitting
+Want to make this dashboard even better?  
+Fork the repo, create a branch, and send a pull request—contributions are always welcome! 🛠️💡
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## 📋 Description
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+This project implements a full-featured, interactive dashboard using modern frontend concepts. It highlights real-world use of React hooks, form handling, conditional rendering, and dynamic state management in a responsive UI.
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#ReactJS #Dashboard #WebDevelopment #AI #FrontendDev #IncidentReporting
+```
