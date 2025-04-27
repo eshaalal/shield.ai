@@ -1,0 +1,33 @@
+/* Footer Container */
+.footer {
+    background-color: var(--background-dark);
+    color: var(--text-light);
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: 1rem;
+    box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Footer Text */
+  .footer-text {
+    margin: 0;
+    font-weight: 400;
+    color: var(--text-light);
+    opacity: 0.8;
+    font-size: 1rem;
+  }
+  
+  /* Dark Mode Footer */
+  .home-page.dark .footer {
+    background-color: var(--background-dark);
+    color: var(--text-dark);
+  }
+  
+  .home-page.dark .footer-text {
+    color: var(--text-dark);
+  }
+  
