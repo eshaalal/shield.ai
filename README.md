@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 
 2. **Navigate to the project folder**:
    ```bash
-   cd shield.ai
+   cd shield.ai-main
    ```
 
 3. **Install the dependencies**:
