@@ -1,6 +1,6 @@
 import { Link, useLocation } from 'react-router-dom';
 import { useTheme } from '../contexts/ThemeContext';
-import '../css/navbar.css'
+
 const Navbar = () => {
   const { darkMode, toggleTheme } = useTheme();
   const location = useLocation();
